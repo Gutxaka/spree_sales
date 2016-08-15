@@ -40,7 +40,7 @@ Promotion by categories:
 
 ## Instrucciones:
 
-Spree_sales nos permite tener una visualización de las promociones que se están aplicando en nuestra tienda en el frontend, asignado el porcentage aplicado a cada producto con su precio actualizado y el precio de coste anterior. 
+Spree_sales nos permite tener una visualización de las promociones que se están aplicando en nuestra tienda en el frontend, asignado el porcentaje aplicado a cada producto con su precio actualizado y el precio de coste anterior. 
 
 Actualmente están implementadas las siguientes promociones:
  
